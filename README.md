@@ -3,9 +3,9 @@
 Consultant SI orienté cybersécurité. Je sécurise et durcis les
 infrastructures Active Directory (On-Premise & Cloud hybride).
 
-🔧 ADDS · ADLDS · Entra ID · AD CS / PKI · LDAPS · PowerShell
-🛡️ Audit AD (MITRE ATT&CK · CIS · ANSSI) · PAM · SIEM
-📜 En préparation : AZ-104 · SC-900 · SC-300 (2026)
+- 🔧 ADDS · ADLDS · Entra ID · AD CS / PKI · LDAPS · PowerShell
+- 🛡️ Audit AD (MITRE ATT&CK · CIS · ANSSI) · PAM · SIEM
+- 📜 En préparation : AZ-104 · SC-900 · SC-300 (2026)
 
 📂 Voir mes projets ci-dessous · 🔗 LinkedIn : /in/joel-loutoumba
 <!--
