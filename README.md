@@ -7,7 +7,7 @@ infrastructures Active Directory (On-Premise & Cloud hybride).
 - 🛡️ Audit AD (MITRE ATT&CK · CIS · ANSSI) · PAM · SIEM
 - 📜 En préparation : AZ-104 · SC-900 · SC-300 (2026)
 
-📂 Voir mes projets ci-dessous · 🔗 LinkedIn : /in/joel-loutoumba
+📂 Voir mes projets ci-dessous · 🔗 LinkedIn : [/in/joel-loutoumba](https://www.linkedin.com/in/joel-loutoumba/)
 <!--
 **joel-loutoumba/joel-loutoumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
